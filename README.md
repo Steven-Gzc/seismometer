@@ -9,7 +9,7 @@ This repository documents the building, modeling, and field testing of a low-fre
 - `project.tex`
   Main LaTeX source for the final project report.
 
-- `project.pdf`
+- [`project.pdf`](project.pdf)
   Compiled PDF of the current report draft.
 
 - `electromagnetic_seismometer_report.pdf`
@@ -26,9 +26,6 @@ This repository documents the building, modeling, and field testing of a low-fre
 ### Images
 
 All report figures live in `images/`.
-
-- `amplifier_schematic.pdf`
-  Independently redrawn vector schematic of the amplifier used in the experiment. Its editable CircuitikZ source is `amplifier_schematic.tex`.
 
 - `breadboard.png`
   Photo of the breadboard implementation of the amplifier.
